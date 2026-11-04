@@ -14,17 +14,27 @@ Eastern United States (CEUS). It includes the study dataset and the results of t
 site and source adjustments developed by the authors.
 
 ######################
+
 Folder Structure
+
 ######################
 
 a.The nonergodic adjustment terms
+
   1-dc_0_mean: Constant offset of the nonergodic GMM relative to the ergodic backbone model
+  
   2-dc_0_sig: Epistemic uncertainties associated with dc_0_mean
+  
   3-dc_1e_mean: Spatially varying source adjustment as a function of earthquake coordinates
+  
   4-dc_1e_sig: Epistemic uncertainties associated with dc_1e_mean
+  
   5-dc_1as_mean: Spatially independent site adjustment indexed by station ID
+  
   6-dc_1as_sig: Epistemic uncertainties associated with dc_1as_mean
+  
   7-dc_1bs_mean: Spatially varying site adjustment as a function of site coordinates
+  
   8-dc_1bs_sig: Epistemic uncertainties associated with dc_1bs_mean
 
 b. Combined_Flatfile
