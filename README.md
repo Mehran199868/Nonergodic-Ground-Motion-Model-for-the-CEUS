@@ -8,9 +8,11 @@ This repository accompanies the study by Mehran Davatgari-Tafreshi, Shahram Peze
 Kenneth Campbell (????) on a nonergodic ground motion model (NGMM) for the Central and 
 Eastern United States (CEUS). It includes the study dataset and the results of the nonergodic 
 site and source adjustments developed by the authors.
+
 ######################
 Folder Structure
 ######################
+
 a.The nonergodic adjustment terms
   1-dc_0_mean: Constant offset of the nonergodic GMM relative to the ergodic backbone model
   2-dc_0_sig: Epistemic uncertainties associated with dc_0_mean
@@ -30,6 +32,7 @@ b. Combined_Flatfile
 ######################
    Citation
 ######################
+
 When using these files, cite the accompanying manuscript, this dataset
 using its repository DOI, and the relevant original data sources:
 Goulet et al. (2014), Chapman and Guo (2021), and Thompson et al. (2023).
