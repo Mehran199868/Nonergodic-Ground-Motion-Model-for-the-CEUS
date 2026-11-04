@@ -19,7 +19,7 @@ Folder Structure
 
 ######################
 
-a.The nonergodic adjustment terms
+a)The nonergodic adjustment terms
 
   1-dc_0_mean: Constant offset of the nonergodic GMM relative to the ergodic backbone model
   
@@ -37,7 +37,7 @@ a.The nonergodic adjustment terms
   
   8-dc_1bs_sig: Epistemic uncertainties associated with dc_1bs_mean
 
-b. Combined_Flatfile
+b). Combined_Flatfile
    This file contains the combined dataset used in the analysis.
    It was compiled from three independent datasets: Goulet et al. (2014),
    Chapman and Guo (2021), and Thompson et al. (2023).
