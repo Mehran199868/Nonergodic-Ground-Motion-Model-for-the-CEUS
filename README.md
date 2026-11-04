@@ -1,9 +1,11 @@
 ###########################################################################################
 Nonergodic Ground Motion Model for the Central and Eastern United States (CEUS)
 ###########################################################################################
+
 ######################
 Overview
 ######################
+
 This repository accompanies the study by Mehran Davatgari-Tafreshi, Shahram Pezeshk, and 
 Kenneth Campbell (????) on a nonergodic ground motion model (NGMM) for the Central and 
 Eastern United States (CEUS). It includes the study dataset and the results of the nonergodic 
